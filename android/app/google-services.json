@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "443667970706",
+    "firebase_url": "https://gestaon-396ca.firebaseio.com",
+    "project_id": "gestaon-396ca",
+    "storage_bucket": "gestaon-396ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443667970706:android:9ab385338db8ec64",
+        "android_client_info": {
+          "package_name": "com.gestaon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443667970706-jit0u72eh66ginmk0b73eqti2gt79ki9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr94PwppTHTbjsdldR3gOuM-THI5ioIP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
